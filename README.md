@@ -1,4 +1,4 @@
-# Jarkom-Modul-3-B01-2023-
+# Jarkom-Modul-3-B01-2023
 
 | Name           | NRP        | Kelas     |
 | ---            | ---        | ----------|
