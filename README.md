@@ -5,6 +5,8 @@
 | Rr. Diajeng Alfisyahrinnisa Anandha | 5025211147 | Jaringan Komputer (B) |
 
 
+# Laporan grimiore: https://drive.google.com/file/d/1NS1KcXgIiTNqHYVVXjZS9QiiYdGzXPUk/view?usp=sharing 
+
 # Soal 0 dan 1
 Register domain berupa riegel.canyon.yyy.com untuk worker Laravel dan granz.channel.yyy.com untuk worker PHP mengarah pada worker yang memiliki IP [prefix IP].x.1. Lakukan konfig yang sesuai
 
