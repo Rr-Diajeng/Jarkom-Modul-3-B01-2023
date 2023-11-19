@@ -1920,4 +1920,4 @@ Hasil ab:
 ab -n 100 -c 10 -g lcphpfpm.data http://canyon.b01.com/
 ```
 
-<br>![41](./assets/41.jpg)</br>
+<br>![42](./assets/42.jpg)</br>
