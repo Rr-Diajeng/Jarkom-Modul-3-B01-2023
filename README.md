@@ -5,6 +5,9 @@
 | Rr. Diajeng Alfisyahrinnisa Anandha | 5025211147 | Jaringan Komputer (B) |
 
 
+# Laporan grimiore:  
+https://drive.google.com/file/d/1NS1KcXgIiTNqHYVVXjZS9QiiYdGzXPUk/view?usp=sharing 
+
 
 # Gambar topologi
 <br>![topologi](./assets/topologi.jpg)</br>
