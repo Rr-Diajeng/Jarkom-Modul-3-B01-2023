@@ -163,6 +163,10 @@ service bind9 restart
 
 > Di `named.conf.options`, kita tambahkan forwarders menuju IP dari google yaitu `192.168.122.1` agar dapat terhubung dengan internet
 
+## Kendala
+
+Tidak ada kendala dalam pengerjaan
+
 # Soal 2, 3, 4, 5 (konfig dhcp)
 
 ## Jawaban 
@@ -333,6 +337,10 @@ service isc-dhcp-server status
 Lalu restart salah satu node, hasilnya adalah
 
 <br>![12](./assets/12.jpg)</br>
+
+## Kendala
+
+Tidak ada kendala dalam pengerjaan
 
 # Soal 6,7,8,9 (deploy index.php pada worker lawine, linie, lugner)
 
@@ -663,6 +671,10 @@ hasil uji testing dengan 200 request dan 10 req/second adalah
 3. Untuk 1 worker:
     <br>![24](./assets/24.jpg)</br>
 
+## Kendala
+
+Tidak ada kendala dalam pengerjaan
+
 # Soal 10 dan 11
 Kita tambahkan konfig loadbalancer dengan kombinasi username: “netics” dan password: “ajkyyy”, dengan yyy merupakan kode kelompok. Terakhir simpan file “htpasswd” nya di /etc/nginx/rahasisakita/ dan setiap request yang mengandung /its akan mengarah ke halaman https://www.its.ac.id 
 
@@ -720,6 +732,10 @@ service nginx restart
 Hasil:
 
 <br>![25](./assets/25.jpg)</br>
+
+## Kendala
+
+Tidak ada kendala dalam pengerjaan
 
 # Soal no. 12
 
@@ -788,6 +804,10 @@ Hasil jika dibuka di ip [Prefix IP].3.69:
 Hasil jika dibuka di ip yang tidak memiliki akses:
 
 <br>![27](./assets/27.jpg)</br>
+
+## Kendala
+
+Tidak ada kendala dalam pengerjaan
 
 # Soal no. 13 dan 14
 
@@ -1163,6 +1183,9 @@ Hasil database yang terbentuk setelah kita melakukan register:
     service nginx restart
     ```
 
+## Kendala
+
+Tidak ada kendala dalam pengerjaan
 # Soal no. 15, 16, dan 17
 
 ## Jawab
@@ -1207,6 +1230,10 @@ Kita lakukan testing sebanyak 100 request dengan 10 req/second pada
     
     <br>![38](./assets/38.jpg)</br>
 
+
+## Kendala
+
+Tidak ada kendala dalam pengerjaan
 
 # Soal no 18
 
@@ -1260,6 +1287,10 @@ Implementasikan proxy bind pada eisen untuk mengaitkan IP dari frieren, flamme, 
     service nginx restart
     service nginx restart
     ```
+
+## Kendala
+
+Tidak ada kendala dalam pengerjaan
 
 # Soal no 19
 
@@ -1854,6 +1885,10 @@ sebanyak tiga percobaan dan lakukan testing sebanyak 100 request dengan 10 reque
     <br>![41](./assets/41.jpg)</br>
 
 
+## Kendala
+
+Tidak ada kendala dalam pengerjaan
+
 # Soal no 20
 
 Nampaknya hanya menggunakan PHP-FPM tidak cukup untuk meningkatkan performa dari worker maka implementasikan Least-Conn pada Eisen. Untuk testing kinerja dari worker tersebut dilakukan sebanyak 100 request dengan 10 request/second.
@@ -1921,3 +1956,7 @@ ab -n 100 -c 10 -g lcphpfpm.data http://canyon.b01.com/
 ```
 
 <br>![42](./assets/42.jpg)</br>
+
+## Kendala
+
+Tidak ada kendala dalam pengerjaan
